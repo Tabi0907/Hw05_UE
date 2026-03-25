@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE_SPARTA\\HW05\\Source\\HW05\\HW05.Build.cs",
+		"C:\\UE_SPARTA\\HW05\\Source\\HW05.Target.cs",
+		"C:\\UE_SPARTA\\HW05\\Source\\HW05Editor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
